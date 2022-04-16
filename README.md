@@ -22,7 +22,7 @@ Languages
 ---------------
 I like to work on **C#, C+, Java, Python.** And as of right now, I'm working on a C# Project.
 
-**Thanks for taking a brief look at my github profile, have a nice day!
+**Thanks for taking a brief look at my github profile, have a nice day!**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=astraphobic&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
