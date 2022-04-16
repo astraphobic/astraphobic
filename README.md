@@ -8,7 +8,7 @@ My name is Astraphobic and I love to code in my freetime.
 I'm currently and very actively working on my pre-developed game!
 
 
-Here on **Github**, I love to check out and make my own repositories. (some are private too :D)
+Here on **Github**, I love to check out and make my own repositories. (all are private as of right now :D)
 
 If you have any questions, please DM me on Gmail | xAstraphobic@protonmail.com
 
