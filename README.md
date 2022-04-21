@@ -1,5 +1,4 @@
 gone
 
 -----------------------------
-
-<img src="https://github-readme-stats.vercel.app/api?username=ilovehasna36c&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+![giphy](https://user-images.githubusercontent.com/85027228/164484961-6046baf2-ce85-4187-aef6-78790c411f46.gif)
